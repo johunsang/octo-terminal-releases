@@ -1,4 +1,4 @@
-# 🐙 Octo Terminal
+<img width="1139" height="807" alt="image" src="https://github.com/user-attachments/assets/289a2a15-b7a4-47e7-8539-0a8382d1cfe7" />
 
 AI 코딩 어시스턴트 통합 터미널 애플리케이션
 
@@ -6,7 +6,6 @@ AI 코딩 어시스턴트 통합 터미널 애플리케이션
 [![Platform](https://img.shields.io/badge/Platform-macOS%20|%20Windows-lightgrey)](https://github.com/johunsang/octo-terminal-releases/releases)
 <img width="1139" height="807" alt="image" src="https://github.com/user-attachments/assets/ae228fa6-0dc3-4bad-8c58-7bebea2f6eb5" />
 
-<img width="1139" height="807" alt="image" src="https://github.com/user-attachments/assets/d9189890-97f8-4618-8363-686705413f0d" />
 
 ---
 
