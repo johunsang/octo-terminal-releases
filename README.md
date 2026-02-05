@@ -1,5 +1,3 @@
-<img width="1139" height="807" alt="image" src="https://github.com/user-attachments/assets/289a2a15-b7a4-47e7-8539-0a8382d1cfe7" />
-
 AI 코딩 어시스턴트 통합 터미널 애플리케이션
 
 [![Download](https://img.shields.io/badge/Download-Latest-blue)](https://github.com/johunsang/octo-terminal-releases/releases/latest)
