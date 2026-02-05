@@ -5,7 +5,6 @@ AI 코딩 어시스턴트 통합 터미널 애플리케이션
 [![Download](https://img.shields.io/badge/Download-Latest-blue)](https://github.com/johunsang/octo-terminal-releases/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-macOS%20|%20Windows-lightgrey)](https://github.com/johunsang/octo-terminal-releases/releases)
 
-![Octo Terminal Screenshot](images/screenshot1.png)
 
 ---
 
